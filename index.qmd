@@ -1,6 +1,6 @@
 ---
 title: ""
-image: images/leftwich.png
+image: images/drosophila-face.png
 toc: false
 about: 
   template: jolla
@@ -23,12 +23,12 @@ about:
 
 <!-- ::: {.small-text} -->
 
-Hi, I'm blank! 
+@drosothephila
 
-I am a blank interested in developing and blank
+I am a blank interested in other drosophilas! 
 
-Currently based at the blank I teach across a range of subjects including molecular biology, genetics, statistics and computing skills.
+Currently based at the blank and I like other drosophilas!!
 
-On this site you can find information on my research, current projects, and find details about teaching and outreach projects. <!-- ::: -->
+On this site you can find images of drosophilas. <!-- ::: -->
 
 
