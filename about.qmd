@@ -20,7 +20,7 @@ page-layout: full
 title-block-banner: false
 ---
 
-I am an [Associate Professor in Genetics & Data Science](https://research-portal.uea.ac.uk/en/persons/philip-leftwich) in the School of Biological Sciences at the University of East Anglia. Please see below for my teaching and research interests.
+I am a [Drosophila](https://www.instagram.com/drosothephila/) in the School of Biological Sciences at the University of East Anglia. Please see below for my teaching and research interests.
 
 ## {{< fa chalkboard-teacher title="A teacher at a chalkboard" >}} Teaching
 
